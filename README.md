@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hackin420
-- 👀 I’m interested in coding in python and java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Learning how to code!
-- 📫 How to reach me ..
+- 👋 Hi, I’m DevCodeX
+- 👀 I’m interested in coding in python and JS, C++
+- 🌱 I’m currently learning Python, JS, CSS, Html, Flask, django...
+- 💞️ I’m looking to collaborate on Learning how to code so yea hit me up if you are intrested !
+- 📫 How to reach me parzival420king@gmail.com
 
 <!---
 Hackin420/Hackin420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
